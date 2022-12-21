@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### :woman_technologist: About Me :
+- :telescope: I'm looking for a front-end developer role
+
+- :seedling: 
+
+- :zap: I’m currently working on myself.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
