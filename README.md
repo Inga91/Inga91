@@ -1,25 +1,6 @@
 ### Hi there 👋
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-<!--
-**Inga91/Inga91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:woman_technologist:I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### :woman_technologist: About me:
-
-- :telescope: I'm looking for a Front-End Developer role
-
-- :zap: Currently I’m working on myself.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
