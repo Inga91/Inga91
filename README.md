@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Inga
 
 <!--
 **Inga91/Inga91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :woman_technologist: I'm Inga
+### :woman_technologist: About me:
 
 - :telescope: I'm looking for a Front-End Developer role
 
