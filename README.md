@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :woman_technologist: About Me :
-I'm Inga
+### :woman_technologist: I'm Inga
+
 - :telescope: I'm looking for a Front-End Developer role
 
 - :zap: Currently I’m working on myself.
