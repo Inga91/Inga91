@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I'm Inga
-
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 <!--
 **Inga91/Inga91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
